@@ -73,16 +73,94 @@
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:sanjaykommuju22@gmail.com">
+<a href="mailto:sanjaykommuju22@gmail.com"> = sanjaykommuju22@gmail.com
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
+# BEST Repositories Projects of mine : 
 
 
+- Adidas Sales Analysis
+- Global Retail Sales Analysis
+- TV Web Scraping EDA
+- SQL Library Database Analysis
 
+---
+# Featured Data Analytics Projects:
+--- 
+# Adidas Sales Analysis :
+
+This project focuses on analyzing Global Retail Sales Data to uncover valuable business insights related to sales performance, customer behavior, product trends, and regional profitability.
+
+The project demonstrates practical skills in:
+
+Data Cleaning
+Exploratory Data Analysis (EDA)
+Business Intelligence
+Data Visualization
+Sales & Profit Analysis
+Insight Generation
+
+The objective of this project is to transform raw retail sales data into actionable business insights that support strategic decision-making.
+
+# official project link -- 
+https://github.com/sanjayk2226/adidas-us-sales-analysis
+
+---
+# Global Retail Sales Insights Project -
+
+This project focuses on analyzing Global Retail Sales Data to uncover valuable business insights related to sales performance, customer behavior, product trends, and regional profitability.
+
+The project demonstrates practical skills in:
+
+Data Cleaning
+Exploratory Data Analysis (EDA)
+Business Intelligence
+Data Visualization
+Sales & Profit Analysis
+Insight Generation
+The objective of this project is to transform raw retail sales data into actionable business insights that support strategic decision-making.
+
+# official project link 
+https://github.com/sanjayk2226/global-retail-sales-analysis
+
+---
+# 📺 Python & EDA Web Scraping Analysis of TV Data : 
+
+This project focuses on Web Scraping, Data Cleaning, Exploratory Data Analysis (EDA), and Data Visualization using Python. The dataset was collected by scraping TV product information from an e-commerce website and analyzing the data to extract meaningful business insights.
+
+The project demonstrates practical implementation of:
+
+Web Scraping using BeautifulSoup
+Data Cleaning & Preprocessing
+Exploratory Data Analysis (EDA)
+Data Visualization
+Insight Generation using Python
+
+#  official project link 
+https://github.com/sanjayk2226/tv-sales-web-scraping-analysis
+
+---
+# 📚 SQL Project on Library Database Analysis :
+
+This project focuses on designing and analyzing a Library Management Database using SQL. The project demonstrates practical knowledge of database concepts including table creation, relationships, joins, aggregations, subqueries, views, and analytical SQL queries.
+
+The project simulates a real-world library database system to manage:
+
+Books
+Authors
+Publishers
+Borrowers
+Library Branches
+Book Loans
+Book Copies
+The analysis helps in understanding library operations, borrower activities, book availability, and branch-wise management.
+
+# official project link 
+https://github.com/sanjayk2226/sql-library-management-analysis
 
 
 
